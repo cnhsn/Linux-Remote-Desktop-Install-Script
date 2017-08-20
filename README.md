@@ -5,7 +5,7 @@ Bu script ile Linux sunucunuza Uzak Masaüstü ile bağlantı sağlayabilirsiniz
 ## Nasıl kullanılır?
 Alttaki kodları kopyalayın ve yapıştırın, ardından enter'a tıklayın. Bu kadar :)
 
-`bash <(wget -O- --no-check-certificate 'https://raw.githubusercontent.com/ayelemeze/lumba/master/lumba.sh')`
+`bash <(wget -O- --no-check-certificate 'https://raw.githubusercontent.com/sn0bzy/Linux-Remote-Desktop-Install-Script/master/Parra.sh')`
 
 
 ### Uyarı ve Notlar
