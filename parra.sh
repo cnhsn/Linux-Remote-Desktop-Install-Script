@@ -11,6 +11,7 @@ echo '###########################################'
 echo "   Sunucu adresi: $IP"
 echo 'Kullanici adi ve sifreniz putty e giris yaptiginiz bilgilerle ayni.'
 echo 'Parra'yi kullandiginiz icin tesekkurler.'
+echo 'Bu script Hasan CAN tarafindan kodlanmistir.'
 echo '###########################################'
 
 exit
