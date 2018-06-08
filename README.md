@@ -9,16 +9,14 @@ Alttaki kodları kopyalayın ve yapıştırın, ardından enter'a tıklayın. Bu
 
 
 ### Uyarı ve Notlar
-Script sadece xrdp kurulumu yapmaktadır, yani fazla bir fıtı fıtısı yoktur.
+Script sadece xrdp kurulumu yapmaktadır.
 
-Aslında buna da script denmez, kodları alt alta topladım sadece bu kadar.
-
-Size faydalı olduysam ne mutlu bana, lütfen bir sorun oluşursa kendi başınıza çözmeye çalışın.
-
-**Scripti sadece Ubuntu'da denedim, sizinde Ubuntu kullanmanızı tavsiye ederim.**
+Toplu kod satırından oluşmaktadır. Herhangi zararlı bir kod bulunmamaktadır.
 
 
-### Güncelleme detayları
-Web browser çalışmıyordu, bunun yerine kurulum kendi içinde Firefox'u kuruyor.
+**Script Ubuntuda sorunsuz çalışmaktadır.**
 
-Script bazen çalışmıyordu, sorun giderildi.
+
+### Credits
+
+Hasan CAN - https://hasan.im
